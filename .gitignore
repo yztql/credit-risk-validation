@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Generated data and models (reproduced by running the pipeline)
+data/
+models/
+
+# SQLite audit log (runtime artifact)
+validation_log.db
+
+# Interview notes (not for public repo)
+INTERVIEW.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
